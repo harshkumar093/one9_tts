@@ -1,3 +1,4 @@
-import google_tts
+def init():
+    print('one9_tts required gtts package')
 
-google_tts.init()
+init()
